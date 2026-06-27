@@ -1,0 +1,6 @@
+{
+  "name": "Dev Toolbox",
+  "description": "A retro-themed, gamified all-in-one developer toolbox featuring formatters, validators, converters, JWT decoder, Base64 codec, URL parser, schedule calculator, and more.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
